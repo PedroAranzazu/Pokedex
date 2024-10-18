@@ -25,15 +25,52 @@
 
 .stats {
   flex: 1;
+
 }
 
 .imagen {
   width: 100px;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin: 10px;
+  background-color: antiquewhite;
 }
 .info {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(181, 185, 175);
   padding: 10px;
+  border-radius: 8px;
+  border: 10px solid grey;
+
+
 }
 
-.acciones {
+
+.boton{
+  border-radius: 8px;
+  margin: 20px 3px;
+  padding: 10px 15px;
+
+}
+
+.siguiente{
+  background-color: yellow;
+}
+
+.anterior{
+  background-color: rgb(0, 255, 0);
+}
+
+.buscar{
+  border-radius: 8px;
+  padding: 10px;
+  width: 250px;
+  background-color: rgb(204, 204, 0);
+}
+
+.buscar::placeholder{
+  color: white;
+}
+
+.pokemon-stats{
+  font-weight: 700;
 }
