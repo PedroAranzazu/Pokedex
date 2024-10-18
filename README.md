@@ -1,3 +1,12 @@
+
+Pokedex hecha con JS 
+
+
+![image](https://github.com/user-attachments/assets/a9570dbe-53b4-4cd7-a202-8a4b134135a2)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
